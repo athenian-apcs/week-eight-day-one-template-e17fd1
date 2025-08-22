@@ -2,6 +2,4 @@
 
 // import static org.junit.jupiter.api.Assertions.assertEquals;
 
-public class MyTests {
-
-}
+public class MyTests {}
